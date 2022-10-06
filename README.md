@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@mohamed41947925" target="blank"><img src="https://img.shields.io/twitter/follow/@mohamed41947925?logo=twitter&style=for-the-badge" alt="@mohamed41947925" /></a> </p>
 
-- 🔭 I’m currently Studying **Front End Web development Track**
+- 🔭 I’m currently Studying **Full Stack Web development Track**
 
 - 🌱 I’m currently learning **Programming and Development**
 
