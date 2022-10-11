@@ -1,4 +1,4 @@
-Hi 👋 My name is mohamed ahmed
+<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
 ==============================
 
 Full stack web developer ( Mern Stack )
@@ -37,13 +37,6 @@ A passionate web developer from Egypt , i am graduated from faculty of computer 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
-<h3 align="center">A passionate frontend web developer from Egypt Seeking New Challenges</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamedahmedd&label=Profile%20views&color=0e75b6&style=flat" alt="muhamedahmedd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamedahmedd" alt="muhamedahmedd" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@mohamed41947925" target="blank"><img src="https://img.shields.io/twitter/follow/@mohamed41947925?logo=twitter&style=for-the-badge" alt="@mohamed41947925" /></a> </p>
 
 - 🔭 I’m currently Studying **Full Stack Web development Track**
