@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
 ==============================
 
-Full stack web developer ( Mern Stack )
+Full stack web developer ( Mearn Stack )
 ---------------------------------------
 
 A passionate web developer from Egypt , i am graduated from faculty of computer and information science Seeking New Challenges , i can develop high quality applications and i have the ability to deal with general problems within the framework of the work, the ability to design the app easily, the ability to implement software projects I have made many of projects in both side front and back end , I can work independently and respect a deadline. I feel comfortable working with a good team of developers. I am cooperative, and patient, I have excellent communication skills, Problem Solving and manage time.
